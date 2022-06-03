@@ -4,10 +4,6 @@
 
 #include "BarnesNoble.h"
 
-BarnesNoble::BarnesNoble(){
-
-
-}
 BarnesNoble::BarnesNoble(string n):Dymocks(false){
     this->name = n;
 
