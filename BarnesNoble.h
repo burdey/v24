@@ -11,7 +11,6 @@
 class BarnesNoble: public Dymocks{
 public:
     int numSoldBooks = 0;
-    BarnesNoble();
     BarnesNoble(string n);
     void soldBook();
     int get_numSoldBooks();
