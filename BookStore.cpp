@@ -1,11 +1,6 @@
 
 #include "BookStore.h"
 
-BookStore::BookStore(){
-
-
-}
-
 BookStore::BookStore(string n, string a, int b){
     name = n;
     address = a;
