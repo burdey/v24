@@ -6,10 +6,5 @@
 using namespace std;
 
 int main(){
-    Dymocks dyOnline(true);
-    Dymocks dyOffline(false);
 
-
-
-    return 0;
 }
