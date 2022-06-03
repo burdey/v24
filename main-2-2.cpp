@@ -7,8 +7,5 @@
 using namespace std;
 
 int main(){
-    BarnesNoble Barne("CCC");
-
-    return 0;
 
 }
