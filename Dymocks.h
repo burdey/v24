@@ -14,7 +14,6 @@ private:
 public:
     int storeID;
     bool isOnline;
-    Dymocks();
     Dymocks(bool s);
     int generateStored();
     int get_storeID();
