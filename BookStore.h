@@ -15,7 +15,6 @@ protected:
     int numBook;
 
 public:
-    BookStore();
     BookStore(string n, string a, int b);
     void set_name(string n);
     string get_name();
