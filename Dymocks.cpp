@@ -4,10 +4,6 @@
 
 #include "Dymocks.h"
 
-Dymocks::Dymocks(){
-    storeID = generateStored();
-
-}
 Dymocks::Dymocks(bool s): BookStore("Dymock","",500){
     isOnline = s;
     storeID = generateStored();
